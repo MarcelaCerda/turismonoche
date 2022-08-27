@@ -1,4 +1,4 @@
-let cad=`<h1>Turismo Codo a Codo</h1>
+let cad=`<h1>Turismo Argentina Programa</h1>
         <nav>
             <a href="index.html">
                 <img src="./imagenes/equipaje.png" width="30" alt="equipaje">
